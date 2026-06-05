@@ -27,6 +27,7 @@
 
 ---
 
+<!---
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-nu-six-50.vercel.app/api?username=saimm97&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180">
@@ -38,6 +39,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saimm97&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies">
 </p>
+
+--->
+
 
 ---
 
