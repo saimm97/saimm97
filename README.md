@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 💼 **6+ years** building scalable SaaS platforms, AI products, and distributed data systems
-- 👥 Leading a **cross-functional team of 15+ engineers** across architecture, delivery & production
+- 👥 Leading a **cross-functional team of 10+ engineers** across architecture, delivery & production
 - 🤖 Built an **AI-driven auditing platform** that uncovered **$40M+ in missed commissions** across a decade of transaction data
 - 🧠 Deep in **LLMs, RAG assistants, intelligent search & workflow automation**
 - 🏗️ Strong in backend architecture, API design, multi-tenant systems & cloud reliability
